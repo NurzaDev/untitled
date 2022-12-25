@@ -1,0 +1,761 @@
+@media (max-width: 1440px) {
+    .container{
+        width: 90%;
+    }
+}
+@media (max-width: 1200px) {
+    .img-2{
+        right: -698px;
+    }
+    .block-title {
+        width: 861px;
+    }
+    .light-1 {
+        left: 822px;
+    }
+    .make-img-3{
+        left: 140px;
+    }
+    .card-img-1 {
+        width: 531px;
+    }
+    .card-top-1{
+        top: -54px;
+    }
+    .card-img-2 {
+        width: 340px;
+    }
+    .group{
+        left: 132px;
+    }
+}
+@media (max-width: 1024px) {
+    .img-2 {
+        right: -530px;
+    }
+    .block-title {
+        width: 710px;
+    }
+    .light-1 {
+        left: 628px;
+    }
+    .make{
+        flex-direction: column;
+    }
+    .make-img-3{
+        left: -27px;
+        top: -169px;
+    }
+    .make-1{
+        position: relative;
+        z-index: 99;
+    }
+    .make-img-4 {
+        top: 61px;
+        left: 584px;
+    }
+    .make-tit{
+        top: 156px;
+        left: 658px;
+    }
+    .make-ride{
+        padding: 40px 0;
+        margin-bottom: 120px;
+    }
+    .make-img-1 {
+        position: absolute;
+        top: -125px;
+        left: -5px;
+    }
+    .make-ride button {
+        bottom: -8px;
+        right: 497px;
+    }
+    .light-3{
+        bottom: 59px;
+        right: 395px;
+    }
+    .card-img{
+        top: 77px;
+    }
+    .card-img-1 {
+        width: 455px;
+    }
+    .card-img-2 {
+        width: 289px;
+    }
+    .card-top-1 h1 {
+        font-size: 28px;
+    }
+    .group {
+        left: -38px;
+    }
+    .siaiai {
+        left: 82px;
+    }
+}
+@media (max-width: 992px) {
+    .img-2 {
+        right: -497px;
+    }
+
+    .make-img-3 {
+        left: -62px;
+    }
+
+    .card-img-2 {
+        width: 285px;
+    }
+
+    .group {
+        left: -68px;
+        top: 149px;
+    }
+
+    #footer {
+        padding: 122px 0;
+    }
+
+    .light-1 {
+        left: 626px;
+    }
+}
+@media (max-width: 768px) {
+    .hero{
+        flex-direction: column;
+    }
+    .img-1{
+        position: sticky;
+    }
+    .img-2{
+        left: 10px;
+        top: 10px;
+    }
+    .img-2 {
+        left: -211px;
+        top: 652px;
+    }
+    .nuri{
+        top: 549px;
+        right: 419px;
+    }
+    .nuri-2{
+        right: 113px;
+        bottom: -44px;
+    }
+    .block-title {
+        width: 676px;
+        margin-left: 3px;
+    }
+    .block-img-4{
+        top: -106px;
+        left: -57px;
+    }
+    .block h4{
+        top: -58px;
+        left: -4px;
+    }
+    .light-1 {
+        left: 460px;
+        bottom: -447px;
+    }
+    .make-img-3 {
+        left: -268px;
+    }
+    .make-img-4 {
+        top: 52px;
+        left: 509px;
+    }
+    .make-tit {
+        top: 147px;
+        left: 582px;
+    }
+    .make-ride button {
+        right: 295px;
+    }
+    .new-title{
+        width: 717px;
+    }
+    .card-info {
+        padding-bottom: 160px;
+    }
+    .card-info p {
+        width: 269px;
+    }
+    .card-img {
+        top: 118px;
+    }
+    .card-img-1 {
+        width: 341px;
+    }
+    .card-top-1 h1 {
+        font-size: 20px;
+    }
+    .card-top-1 button {
+        margin-top: 7px;
+        padding: 5px 16px;
+    }
+    .card-img-2 {
+        width: 211px;
+    }
+    .contact{
+        flex-direction: column;
+    }
+    .contact-ride{
+        margin: 80px 0 40px 300px;
+    }
+    .contact-img-1 {
+        top: 376px;
+        right: 34px;
+    }
+    .group {
+        left: -279px;
+        top: 359px;
+    }
+    .sher {
+        top: 29px;
+        left: 112px;
+    }
+    .contact-img-2 {
+        top: 626px;
+        right: 475px;
+    }
+    .contact-ride h1{
+        top: 675px;
+        right: 510px;
+    }
+    .siaiai {
+        left: -96px;
+        top: 10px;
+    }
+    .footer{
+        flex-direction: column;
+    }
+    .footer-2{
+        margin: 20px 0;
+    }
+    .footer-info{
+        margin: 20px 0;
+        width: 90%;
+    }
+    .siai {
+        right: 63px;
+    }
+    .cards{
+        left: 441px;
+    }
+    .red {
+        right: 47px;
+    }
+    .light-1 {
+        left: 426px;
+        bottom: -428px;
+    }
+    .footer{
+        padding: 80px 0;
+    }
+}
+@media (max-width: 576px) {
+    .header {
+        width: 390px;
+    }
+    .img-2 {
+        left: -302px;
+    }
+    .nuri-2 {
+        right: 59px;
+        bottom: 6px;
+    }
+    .nuri {
+        top: 549px;
+        right: 367px;
+    }
+    .block-title {
+       flex-direction: column;
+        width: 390px;
+        height: 1000px;
+        margin-left: 49px;
+    }
+    #make{
+        padding: 1214px 0 50px 0;
+    }
+    .block-img-4 {
+        top: -81px;
+        left: -5px;
+    }
+    .block h4 {
+        top: -35px;
+        left: 41px;
+    }
+    .light-1 {
+        left: 4px;
+        bottom: -163px;
+    }
+    .make-img-1 {
+        width: 100px;
+        height: 100px;
+    }
+    .make-img-1 {
+        width: 533px;
+        height: 643px;
+    }
+    .make-1 {
+        width: 449px;
+        height: 509px;
+    }
+    .make-img-4{
+        top: -223px;
+        left: 261px;
+    }
+    .make-tit {
+        top: -127px;
+        left: 338px;
+    }
+    .make-title-2 {
+        top: -204px;
+        left: 157px;
+    }
+    .make-img-3 {
+        left: -450px;
+    }
+    .new-title{
+        align-items: flex-start;
+        flex-direction: column;
+        width: 483px;
+    }
+    .coffee-block img {
+        top: -4px;
+        left: -63px;
+    }
+    .make-ride button {
+        right: 144px;
+    }
+    .card-info{
+        padding: 53px 0;
+        align-items: flex-end;
+        flex-direction: column;
+    }
+    .card-img{
+        display: none;
+    }
+    .card-info p {
+        width: 411px;
+    }
+    .card-info h1{
+        margin-right: 140px;
+    }
+    .card{
+        flex-direction: column;
+    }
+    .card-img-1 {
+        width: 502px;
+        margin-bottom: 10px;
+    }
+    .card-img-2 {
+        width: 320px;
+        margin-bottom: 10px;
+    }
+    .card-top-1 h1 {
+        font-size: 30px;
+    }
+    .card-top-1 button {
+        margin-top: 41px;
+        padding: 19px 53px;
+    }
+    .card-1{
+        flex-direction: column;
+    }
+    .cards {
+        left: -86px;
+    }
+    .group {
+        left: -462px;
+    }
+    .contact-ride {
+        margin: 64px 0 40px 136px;
+    }
+    .contact-img-2 {
+        top: 388px;
+        right: 306px;
+    }
+    .contact-ride h1 {
+        top: 438px;
+        right: 342px;
+    }
+}
+@media (max-width: 400px) {
+    .header a {
+        display: none;
+    }
+
+    .hero-title h1 {
+        font-size: 50px;
+        padding-left: 10px;
+    }
+
+    .hero-title p {
+        width: 329px;
+        padding-left: 10px;
+    }
+
+    .hero-btn {
+        margin-left: 10px;
+    }
+
+    element.style {
+    }
+
+    .hero-block {
+        width: 344px;
+    }
+
+    .img-1 {
+        width: 316.02px;
+        height: 466px;
+    }
+
+    .nuri-2 {
+        right: -19px;
+        bottom: -45px;
+    }
+
+    .nuri {
+        top: 533px;
+        right: 238px;
+    }
+
+    .img-2 {
+        left: -435px;
+    }
+
+    .block-title {
+        width: 267px;
+    }
+
+    .light {
+        display: none;
+    }
+
+    .light-1 {
+        left: -49px;
+        bottom: -120px;
+    }
+
+    .make-img-1 {
+        width: 319px;
+        height: 376px;
+    }
+
+    .make-1 {
+        width: 270px;
+        height: 315px;
+    }
+
+    .make-img-1 {
+        top: -68px;
+        left: 6px;
+    }
+
+    #make {
+        padding: 1076px 0 50px 0;
+    }
+
+    .make-img-4 {
+        top: -106px;
+        left: 197px;
+        width: 143px;
+        height: 136px;
+    }
+
+    .make-tit {
+        top: -43px;
+        left: 250px;
+        font-size: 20px;
+    }
+
+    .make-title-2 {
+        top: -69px;
+        left: 43px;
+    }
+
+    .make-img-3 {
+        left: -621px;
+        top: -354px;
+    }
+
+    .make-img-2 {
+        width: 351px;
+        height: 203px;
+    }
+
+    .make-ride button {
+        right: 17px;
+        bottom: 30px;
+    }
+
+    .make-ride h1 {
+        font-size: 50px;
+    }
+
+    .new-title h1 {
+        font-size: 50px;
+    }
+
+    .new-title p {
+        width: 326px;
+    }
+
+    .blak {
+        top: -30px;
+        left: 80px;
+    }
+
+    .coffee-block img {
+        width: 208px;
+        height: 221px;
+        top: 22px;
+        left: -30px;
+    }
+
+    .coffee-block {
+        width: 156px;
+        height: 501px;
+    }
+
+    .coffee-title {
+        width: 151px;
+        height: 155px;
+    }
+
+    .coffee-block p {
+        font-size: 16.1334px;
+    }
+
+    .coffee-block h3 {
+        font-size: 22px;
+    }
+
+    .card-info p {
+        width: 330px;
+    }
+
+    .card-info h1 {
+        font-size: 50px;
+        font-weight: 600;
+        margin-right: 182px;
+        padding-left: -579px;
+    }
+
+    .card-img-1 {
+        width: 363px;
+    }
+
+    .card-top-1 h1 {
+        font-size: 20px;
+    }
+
+    .card-top-1 button {
+        margin-top: 11px;
+        padding: -3px 23px;
+    }
+
+    .contact-img-1 {
+        top: 400px;
+        left: -1px;
+        width: 338px;
+        height: 391px;
+    }
+
+    .contact-img-2 {
+        width: 126px;
+        height: 117px;
+        top: 403px;
+        right: 219px;
+    }
+
+    .contact-ride h1 {
+        font-size: 19px;
+        top: 430px;
+        right: 255px;
+    }
+
+    #contact {
+        padding: 1px !important;
+    }
+
+    .siai {
+        right: 58px;
+    }
+
+    .siaiai {
+        display: none;
+    }
+
+    .contact-block {
+        width: 247.92000000000002px;
+        height: 338.6px;
+    }
+
+    .contact-ride {
+        margin: 68px 0 -3px 82px;
+    }
+
+    .group {
+        display: none;
+    }
+
+    #contact {
+        padding: 559px 0;
+    }
+    .nuri-2 {
+        width: 153px;
+        height: 235px;
+        right: 82px;
+        bottom: -82px;
+    }
+    .sher {
+        left: 30px;
+    }
+    .btn-3{
+        display: none;
+    }
+}
+@media (max-width: 376px) {
+    .card-img-1 {
+        width: 338px;
+    }
+    .card-top-1 {
+        top: -71px;
+    }
+    .img-2 {
+        left: -454px;
+    }
+    .make-img-3 {
+        left: -639px;
+    }
+    .make-img-2 {
+        width: 331px;
+        height: 213px;
+    }
+    .siai {
+        right: 33px;
+    }
+}
+@media (max-width: 320px) {
+    .hero-title h1 {
+        font-size: 40px;
+        padding-left: 20px;
+    }
+    .sher {
+        left: -173px;
+    }
+    .hero-title p {
+        width: 275px;
+        padding-left: 21px;
+    }
+    .btn-1 {
+        font-size: 18px;
+        padding: 18px 8px;
+    }
+    .hero-block {
+        width: 271px;
+    }
+    .img-2 {
+        left: -505px;
+    }
+    .nuri-2 {
+        right: 78px;
+        bottom: -45px;
+    }
+    .block-title {
+        width: 237px;
+        margin-left: 21px;
+    }
+    .make-img-3 {
+        left: -695px;
+        top: -242px;
+    }
+    .make-img-1 {
+        top: -49px;
+        left: -16px;
+    }
+    .make-img-4 {
+        top: -78px;
+        left: 166px;
+    }
+    .make-tit {
+        top: -15px;
+        left: 222px;
+    }
+    .make-title-2 {
+        width: 171px;
+        height: 157.41000000000003px;
+        top: -69px;
+        left: 106px;
+    }
+    .make-img-2 {
+        width: 271px;
+        height: 217px;
+    }
+    .make-ride button {
+        right: -6px;
+        bottom: 11px;
+    }
+    .new-title p {
+        width: 273px;
+    }
+    .coffee-block img {
+        top: 51px;
+    }
+    .card-info p {
+        width: 272px;
+    }
+    .card-info h1 {
+        font-size: 50px;
+        margin-right: 115px;
+    }
+    .card-img-1 {
+        width: 289px;
+        margin-top: 41px;
+        padding: -4px -6px;
+    }
+    .card-top-1 button {
+        margin-top: 6px;
+        padding: 4px 10px;
+    }
+    .card-top-1 {
+        top: -17px;
+    }
+    .card-img-2 {
+        width: 259px;
+    }
+    .contact-ride {
+        margin: 107px 0 -3px -9px;
+    }
+    .contact-img-1 {
+        top: 504px;
+        left: -41px;
+        width: 317px;
+        height: 389px;
+    }
+    .contact-ride {
+        margin: 99px 0 -3px 38px;
+    }
+    .contact-img-2 {
+        top: 508px;
+        right: 195px;
+    }
+    .contact-ride h1 {
+        top: 543px;
+        right: 232px;
+    }
+    .footer-2{
+        display: none;
+    }
+    .footer-3{
+        margin: 10px 0;
+    }
+    .contact-logo a span {
+        font-size: 28px;
+    }
+}
